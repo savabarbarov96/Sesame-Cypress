@@ -1,4 +1,4 @@
-describe("Login Page Test", () => {
+describe("Sesame test suite example", () => {
 
 
 

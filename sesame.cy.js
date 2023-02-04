@@ -42,3 +42,6 @@ it("Test user registration with invalid EGN", () => {
     
 })
 })
+
+console.log("test")
+// Testing
